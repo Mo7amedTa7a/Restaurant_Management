@@ -1,0 +1,34 @@
+2026-05-15 02:08:44: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-15 02:08:45: Server started at ١٥‏/٥‏/٢٠٢٦، ٢:٠٨:٤٥ ص on port 5000
+2026-05-15 02:15:53: ◇ injected env (3) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-15 02:15:54: Server started at ١٥‏/٥‏/٢٠٢٦، ٢:١٥:٥٤ ص on port 5000
+2026-05-15 02:23:13: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-15 02:23:14: Server started at ١٥‏/٥‏/٢٠٢٦، ٢:٢٣:١٤ ص on port 5000
+2026-05-16 13:59:39: ◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-16 13:59:41: Server started at ١٦‏/٥‏/٢٠٢٦، ١:٥٩:٤١ م on port 5000
+2026-05-17 02:55:01: ◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-17 02:55:01: Server started at ١٧‏/٥‏/٢٠٢٦، ٢:٥٥:٠١ ص on port 5000
+2026-05-17 03:24:23: ◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+2026-05-17 03:24:23: Server started at ١٧‏/٥‏/٢٠٢٦، ٣:٢٤:٢٣ ص on port 5000
+2026-05-17 03:28:32: ◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-17 03:28:32: Server started at ١٧‏/٥‏/٢٠٢٦، ٣:٢٨:٣٢ ص on port 5000
+2026-05-17 03:35:44: ◇ injected env (3) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-17 03:35:45: Server started at ١٧‏/٥‏/٢٠٢٦، ٣:٣٥:٤٥ ص on port 5000
+2026-05-17 03:40:35: ◇ injected env (3) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-17 03:40:35: Server started at ١٧‏/٥‏/٢٠٢٦، ٣:٤٠:٣٥ ص on port 5000
+2026-05-17 14:32:06: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-17 14:32:07: Server started at ١٧‏/٥‏/٢٠٢٦، ٢:٣٢:٠٧ م on port 5000
+2026-05-17 21:31:26: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-17 21:31:32: Server started at ١٧‏/٥‏/٢٠٢٦، ٩:٣١:٣٢ م on port 5000
+2026-05-17 22:01:21: ◇ injected env (3) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-17 22:01:22: Server started at ١٧‏/٥‏/٢٠٢٦، ١٠:٠١:٢٢ م on port 5000
+2026-05-18 17:06:19: ◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+2026-05-18 17:06:21: Server started at ١٨‏/٥‏/٢٠٢٦، ٥:٠٦:٢٠ م on port 5000
+2026-05-19 18:06:32: ◇ injected env (3) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-19 18:06:33: Server started at ١٩‏/٥‏/٢٠٢٦، ٦:٠٦:٣٣ م on port 5000
+2026-05-20 17:22:22: ◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-20 17:22:27: Server started at ٢٠‏/٥‏/٢٠٢٦، ٥:٢٢:٢٧ م on port 5000
+2026-05-21 15:51:48: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-21 15:51:50: Server started at ٢١‏/٥‏/٢٠٢٦، ٣:٥١:٥٠ م on port 5000
+2026-05-22 19:18:40: ◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-22 19:18:41: Server started at ٢٢‏/٥‏/٢٠٢٦، ٧:١٨:٤١ م on port 5000

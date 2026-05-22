@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fomo-orange: #ff6b00;
+  --color-fomo-orange-hover: #e66000;
+  --color-fomo-dark-bg: #09090b;
+  --color-fomo-card-bg: #18181b;
+  --color-fomo-zinc-50: #fafafa;
+  --color-fomo-zinc-100: #f4f4f5;
+  --color-fomo-zinc-800: #27272a;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  font-family: 'Inter', 'Noto Sans Arabic', system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  direction: rtl;
+  background-color: white;
+  color: #18181b;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark {
+  background-color: var(--color-fomo-dark-bg);
+  color: white;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4d4d8;
+  border-radius: 10px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #27272a;
+}
+
+/* Print Styles */
+@media print {
+  /* Hide the screen-only content without removing it from the document flow */
+  body {
+    visibility: hidden !important;
+    background: white !important;
+  }
+
+  /* Show the receipt and ensure it's visible even if parents are hidden */
+  .print-only-container, 
+  .print-only-container *,
+  #receipt-print, 
+  #receipt-print * {
+    visibility: visible !important;
+    display: block !important;
+  }
+
+  /* Reset table display */
+  #receipt-print table { display: table !important; }
+  #receipt-print thead { display: table-header-group !important; }
+  #receipt-print tbody { display: table-row-group !important; }
+  #receipt-print tr { display: table-row !important; }
+  #receipt-print th, #receipt-print td { display: table-cell !important; }
+
+  /* Position the receipt at the top left of the page */
+  .print-only-container {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    visibility: visible !important;
+    display: block !important;
+  }
+
+  #receipt-print {
+    width: 80mm !important;
+    margin: 0 !important;
+    padding: 10mm !important;
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+  }
+
+  @page {
+    margin: 0;
+    size: 80mm auto;
+  }
+}
+
+.print-only-container {
+  position: fixed;
+  left: -10000px;
+  top: 0;
+  width: 80mm;
+  z-index: -9999;
+}

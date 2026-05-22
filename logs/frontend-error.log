@@ -1,0 +1,763 @@
+2026-05-08 05:00:46: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:46: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:46: ^
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:46:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:46:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:46:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:46:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:46:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:46:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:46:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:46:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: Node.js v22.15.0
+2026-05-08 05:00:46: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:46: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:46: ^
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:46:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:46:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:46:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:46:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:46:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:46:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:46:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:46:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: Node.js v22.15.0
+2026-05-08 05:00:46: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:46: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:46: ^
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:46:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:46:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:46:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:46:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:46:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:46:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:46:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:46:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:46: 
+2026-05-08 05:00:46: Node.js v22.15.0
+2026-05-08 05:00:47: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:47: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:47: ^
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:47:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:47:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:47:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:47:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:47:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:47:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:47:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:47:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:47:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: Node.js v22.15.0
+2026-05-08 05:00:47: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:47: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:47: ^
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:47:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:47:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:47:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:47:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:47:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:47:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:47:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:47:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:47:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: Node.js v22.15.0
+2026-05-08 05:00:47: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:47: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:47: ^
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:47:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:47:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:47:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:47:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:47:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:47:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:47:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:47:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:47:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: Node.js v22.15.0
+2026-05-08 05:00:47: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:47: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:47: ^
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:47:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:47:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:47:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:47:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:47:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:47:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:47:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:47:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:47:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:47: 
+2026-05-08 05:00:47: Node.js v22.15.0
+2026-05-08 05:00:48: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:48: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:48: ^
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:48:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:48:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:48:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:48:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:48:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:48:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:48:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:48:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:48:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: Node.js v22.15.0
+2026-05-08 05:00:48: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:48: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:48: ^
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:48:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:48:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:48:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:48:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:48:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:48:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:48:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:48:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:48:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: Node.js v22.15.0
+2026-05-08 05:00:48: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-05-08 05:00:48: :: Created by npm, please don't edit manually.
+2026-05-08 05:00:48: ^
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: SyntaxError: Unexpected token ':'
+2026-05-08 05:00:48:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:00:48:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:00:48:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:00:48:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:00:48:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:00:48:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:00:48:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:00:48:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:00:48:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:00:48: 
+2026-05-08 05:00:48: Node.js v22.15.0
+2026-05-08 05:01:49: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:49: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:49: ^
+2026-05-08 05:01:49: 
+2026-05-08 05:01:49: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:49:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:49:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:49:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:49:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:49:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:49:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:49:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:49:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:49:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:49: 
+2026-05-08 05:01:49: Node.js v22.15.0
+2026-05-08 05:01:50: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:50: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:50: ^
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:50:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:50:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:50:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:50:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:50:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:50:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:50:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:50:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:50:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: Node.js v22.15.0
+2026-05-08 05:01:50: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:50: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:50: ^
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:50:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:50:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:50:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:50:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:50:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:50:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:50:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:50:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:50:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: Node.js v22.15.0
+2026-05-08 05:01:50: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:50: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:50: ^
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:50:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:50:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:50:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:50:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:50:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:50:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:50:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:50:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:50:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:50: 
+2026-05-08 05:01:50: Node.js v22.15.0
+2026-05-08 05:01:51: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:51: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:51: ^
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:51:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:51:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:51:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:51:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:51:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:51:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:51:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:51:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:51:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: Node.js v22.15.0
+2026-05-08 05:01:51: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:51: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:51: ^
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:51:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:51:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:51:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:51:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:51:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:51:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:51:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:51:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:51:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: Node.js v22.15.0
+2026-05-08 05:01:51: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:51: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:51: ^
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:51:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:51:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:51:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:51:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:51:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:51:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:51:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:51:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:51:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: Node.js v22.15.0
+2026-05-08 05:01:51: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:51: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:51: ^
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:51:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:51:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:51:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:51:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:51:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:51:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:51:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:51:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:51:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: Node.js v22.15.0
+2026-05-08 05:01:51: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:51: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:51: ^
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:51:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:51:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:51:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:51:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:51:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:51:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:51:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:51:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:51:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:51: 
+2026-05-08 05:01:51: Node.js v22.15.0
+2026-05-08 05:01:52: C:\Program Files\nodejs\npm.cmd:1
+2026-05-08 05:01:52: :: Created by npm, please don't edit manually.
+2026-05-08 05:01:52: ^
+2026-05-08 05:01:52: 
+2026-05-08 05:01:52: SyntaxError: Unexpected token ':'
+2026-05-08 05:01:52:     at wrapSafe (node:internal/modules/cjs/loader:1662:18)
+2026-05-08 05:01:52:     at Module._compile (node:internal/modules/cjs/loader:1704:20)
+2026-05-08 05:01:52:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+2026-05-08 05:01:52:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+2026-05-08 05:01:52:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+2026-05-08 05:01:52:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2026-05-08 05:01:52:     at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+2026-05-08 05:01:52:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+2026-05-08 05:01:52:     at node:internal/main/run_main_module:36:49
+2026-05-08 05:01:52: 
+2026-05-08 05:01:52: Node.js v22.15.0
+2026-05-08 19:16:44: [2m7:16:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mCheckout Error: AxiosError: Request failed with status code 404
+2026-05-08 19:16:44:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-08 19:16:44:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-08 19:16:50: [2m7:16:50 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mCheckout Error: AxiosError: Request failed with status code 404
+2026-05-08 19:16:50:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-08 19:16:50:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-08 19:17:55: [2m7:17:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mCheckout Error: AxiosError: Request failed with status code 404
+2026-05-08 19:17:55:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-08 19:17:55:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-08 19:46:07: [2m7:46:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 19:46:07: 
+2026-05-08 19:46:07: [PARSE_ERROR] Error: Unterminated string
+2026-05-08 19:46:07:      ╭─[ src/pages/POS.jsx:126:40 ]
+2026-05-08 19:46:07:      │
+2026-05-08 19:46:07:  126 │     setCustomerData({ name: '', phone: '  const printReceipt = (order) => {
+2026-05-08 19:46:07:      │                                        ──────────────────┬──────────────────  
+2026-05-08 19:46:07:      │                                                          ╰──────────────────── 
+2026-05-08 19:46:07: ─────╯
+2026-05-08 19:46:07: [39m
+2026-05-08 19:46:07:   Plugin: [35mvite:oxc[39m
+2026-05-08 19:46:07:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 19:46:07:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 19:46:07:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 19:46:07:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 19:46:07:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 19:46:07:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 19:46:08: [2m7:46:08 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/pages/POS.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+2026-05-08 19:46:09: [2m7:46:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+2026-05-08 19:46:09: 
+2026-05-08 19:46:09: [PARSE_ERROR] Error: Unterminated string
+2026-05-08 19:46:09:      ╭─[ src/pages/POS.jsx:126:40 ]
+2026-05-08 19:46:09:      │
+2026-05-08 19:46:09:  126 │     setCustomerData({ name: '', phone: '  const printReceipt = (order) => {
+2026-05-08 19:46:09:      │                                        ──────────────────┬──────────────────  
+2026-05-08 19:46:09:      │                                                          ╰──────────────────── 
+2026-05-08 19:46:09: ─────╯
+2026-05-08 19:46:09: 
+2026-05-08 19:46:09:   Plugin: [35mvite:oxc[39m
+2026-05-08 19:46:09:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 19:46:10: [2m7:46:10 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 19:46:10: 
+2026-05-08 19:46:10: [PARSE_ERROR] Error: Unterminated string
+2026-05-08 19:46:10:      ╭─[ src/pages/POS.jsx:126:40 ]
+2026-05-08 19:46:10:      │
+2026-05-08 19:46:10:  126 │     setCustomerData({ name: '', phone: '  const printReceipt = (order) => {
+2026-05-08 19:46:10:      │                                        ──────────────────┬──────────────────  
+2026-05-08 19:46:10:      │                                                          ╰──────────────────── 
+2026-05-08 19:46:10: ─────╯
+2026-05-08 19:46:10: [39m
+2026-05-08 19:46:10:   Plugin: [35mvite:oxc[39m
+2026-05-08 19:46:10:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 19:46:10:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 19:46:10:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 19:46:10:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 19:46:10:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 19:46:10:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 19:46:22: [2m7:46:22 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+2026-05-08 19:46:22: 
+2026-05-08 19:46:22: [PARSE_ERROR] Error: Missing catch or finally clause
+2026-05-08 19:46:22:      ╭─[ src/pages/POS.jsx:227:6 ]
+2026-05-08 19:46:22:      │
+2026-05-08 19:46:22:  227 │     }
+2026-05-08 19:46:22:      │      │ 
+2026-05-08 19:46:22:      │      ╰─ 
+2026-05-08 19:46:22:      │ 
+2026-05-08 19:46:22:      │ Help: Either unwrap this try block or add catch / finally clause
+2026-05-08 19:46:22: ─────╯
+2026-05-08 19:46:22: 
+2026-05-08 19:46:22:   Plugin: [35mvite:oxc[39m
+2026-05-08 19:46:22:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 19:46:24: [2m7:46:24 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 19:46:24: 
+2026-05-08 19:46:24: [PARSE_ERROR] Error: Missing catch or finally clause
+2026-05-08 19:46:24:      ╭─[ src/pages/POS.jsx:227:6 ]
+2026-05-08 19:46:24:      │
+2026-05-08 19:46:24:  227 │     }
+2026-05-08 19:46:24:      │      │ 
+2026-05-08 19:46:24:      │      ╰─ 
+2026-05-08 19:46:24:      │ 
+2026-05-08 19:46:24:      │ Help: Either unwrap this try block or add catch / finally clause
+2026-05-08 19:46:24: ─────╯
+2026-05-08 19:46:24: [39m
+2026-05-08 19:46:24:   Plugin: [35mvite:oxc[39m
+2026-05-08 19:46:24:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 19:46:24:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 19:46:24:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 19:46:24:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 19:46:24:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 19:46:24:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 20:08:51: [2m8:08:51 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 20:08:51: 
+2026-05-08 20:08:51: [PARSE_ERROR] Error: Missing catch or finally clause
+2026-05-08 20:08:51:      ╭─[ src/pages/POS.jsx:227:6 ]
+2026-05-08 20:08:51:      │
+2026-05-08 20:08:51:  227 │     }
+2026-05-08 20:08:51:      │      │ 
+2026-05-08 20:08:51:      │      ╰─ 
+2026-05-08 20:08:51:      │ 
+2026-05-08 20:08:51:      │ Help: Either unwrap this try block or add catch / finally clause
+2026-05-08 20:08:51: ─────╯
+2026-05-08 20:08:51: [39m
+2026-05-08 20:08:51:   Plugin: [35mvite:oxc[39m
+2026-05-08 20:08:51:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 20:08:51:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 20:08:51:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 20:08:51:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 20:08:51:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 20:08:51:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 21:07:19: [2m9:07:19 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+2026-05-08 21:07:19: 
+2026-05-08 21:07:19: [PARSE_ERROR] Error: Identifier `isWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:19:     ╭─[ src/pages/POS.jsx:37:10 ]
+2026-05-08 21:07:19:     │
+2026-05-08 21:07:19:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:19:     │          ──────────────┬──────────────  
+2026-05-08 21:07:19:     │                        ╰──────────────── `isWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:19:     │ 
+2026-05-08 21:07:19:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:19:     │          ──────────────┬──────────────  
+2026-05-08 21:07:19:     │                        ╰──────────────── It can not be redeclared here
+2026-05-08 21:07:19: ────╯
+2026-05-08 21:07:19: 
+2026-05-08 21:07:19: [PARSE_ERROR] Error: Identifier `setIsWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:19:     ╭─[ src/pages/POS.jsx:37:41 ]
+2026-05-08 21:07:19:     │
+2026-05-08 21:07:19:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:19:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:19:     │                                                         ╰───────────────── `setIsWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:19:     │ 
+2026-05-08 21:07:19:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:19:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:19:     │                                                         ╰───────────────── It can not be redeclared here
+2026-05-08 21:07:19: ────╯
+2026-05-08 21:07:19: 
+2026-05-08 21:07:19: [PARSE_ERROR] Error: Identifier `pendingOrderData` has already been declared
+2026-05-08 21:07:19:     ╭─[ src/pages/POS.jsx:38:10 ]
+2026-05-08 21:07:19:     │
+2026-05-08 21:07:19:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:19:     │          ────────┬───────  
+2026-05-08 21:07:19:     │                  ╰───────── `pendingOrderData` has already been declared here
+2026-05-08 21:07:19:     │ 
+2026-05-08 21:07:19:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:19:     │          ────────┬───────  
+2026-05-08 21:07:19:     │                  ╰───────── It can not be redeclared here
+2026-05-08 21:07:19: ────╯
+2026-05-08 21:07:19: 
+2026-05-08 21:07:19: [PARSE_ERROR] Error: Identifier `setPendingOrderData` has already been declared
+2026-05-08 21:07:19:     ╭─[ src/pages/POS.jsx:38:28 ]
+2026-05-08 21:07:19:     │
+2026-05-08 21:07:19:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:19:     │                            ─────────┬─────────  
+2026-05-08 21:07:19:     │                                     ╰─────────── `setPendingOrderData` has already been declared here
+2026-05-08 21:07:19:     │ 
+2026-05-08 21:07:19:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:19:     │                            ─────────┬─────────  
+2026-05-08 21:07:19:     │                                     ╰─────────── It can not be redeclared here
+2026-05-08 21:07:19: ────╯
+2026-05-08 21:07:19: [39m
+2026-05-08 21:07:19:   Plugin: [35mvite:oxc[39m
+2026-05-08 21:07:19:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 21:07:19:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 21:07:19:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 21:07:19:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 21:07:19:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 21:07:19:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 21:07:19: [2m9:07:19 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/pages/POS.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+2026-05-08 21:07:20: [2m9:07:20 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 4 errors:
+2026-05-08 21:07:20: 
+2026-05-08 21:07:20: [PARSE_ERROR] Error: Identifier `isWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:20:     ╭─[ src/pages/POS.jsx:37:10 ]
+2026-05-08 21:07:20:     │
+2026-05-08 21:07:20:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:20:     │          ──────────────┬──────────────  
+2026-05-08 21:07:20:     │                        ╰──────────────── `isWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:20:     │ 
+2026-05-08 21:07:20:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:20:     │          ──────────────┬──────────────  
+2026-05-08 21:07:20:     │                        ╰──────────────── It can not be redeclared here
+2026-05-08 21:07:20: ────╯
+2026-05-08 21:07:20: 
+2026-05-08 21:07:20: [PARSE_ERROR] Error: Identifier `setIsWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:20:     ╭─[ src/pages/POS.jsx:37:41 ]
+2026-05-08 21:07:20:     │
+2026-05-08 21:07:20:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:20:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:20:     │                                                         ╰───────────────── `setIsWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:20:     │ 
+2026-05-08 21:07:20:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:20:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:20:     │                                                         ╰───────────────── It can not be redeclared here
+2026-05-08 21:07:20: ────╯
+2026-05-08 21:07:20: 
+2026-05-08 21:07:20: [PARSE_ERROR] Error: Identifier `pendingOrderData` has already been declared
+2026-05-08 21:07:20:     ╭─[ src/pages/POS.jsx:38:10 ]
+2026-05-08 21:07:20:     │
+2026-05-08 21:07:20:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:20:     │          ────────┬───────  
+2026-05-08 21:07:20:     │                  ╰───────── `pendingOrderData` has already been declared here
+2026-05-08 21:07:20:     │ 
+2026-05-08 21:07:20:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:20:     │          ────────┬───────  
+2026-05-08 21:07:20:     │                  ╰───────── It can not be redeclared here
+2026-05-08 21:07:20: ────╯
+2026-05-08 21:07:20: 
+2026-05-08 21:07:20: [PARSE_ERROR] Error: Identifier `setPendingOrderData` has already been declared
+2026-05-08 21:07:20:     ╭─[ src/pages/POS.jsx:38:28 ]
+2026-05-08 21:07:20:     │
+2026-05-08 21:07:20:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:20:     │                            ─────────┬─────────  
+2026-05-08 21:07:20:     │                                     ╰─────────── `setPendingOrderData` has already been declared here
+2026-05-08 21:07:20:     │ 
+2026-05-08 21:07:20:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:20:     │                            ─────────┬─────────  
+2026-05-08 21:07:20:     │                                     ╰─────────── It can not be redeclared here
+2026-05-08 21:07:20: ────╯
+2026-05-08 21:07:20: 
+2026-05-08 21:07:20:   Plugin: [35mvite:oxc[39m
+2026-05-08 21:07:20:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 21:07:22: [2m9:07:22 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 4 errors:
+2026-05-08 21:07:22: 
+2026-05-08 21:07:22: [PARSE_ERROR] Error: Identifier `isWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:22:     ╭─[ src/pages/POS.jsx:37:10 ]
+2026-05-08 21:07:22:     │
+2026-05-08 21:07:22:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:22:     │          ──────────────┬──────────────  
+2026-05-08 21:07:22:     │                        ╰──────────────── `isWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:22:     │ 
+2026-05-08 21:07:22:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:22:     │          ──────────────┬──────────────  
+2026-05-08 21:07:22:     │                        ╰──────────────── It can not be redeclared here
+2026-05-08 21:07:22: ────╯
+2026-05-08 21:07:22: 
+2026-05-08 21:07:22: [PARSE_ERROR] Error: Identifier `setIsWaitingForPrintConfirmation` has already been declared
+2026-05-08 21:07:22:     ╭─[ src/pages/POS.jsx:37:41 ]
+2026-05-08 21:07:22:     │
+2026-05-08 21:07:22:  37 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:22:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:22:     │                                                         ╰───────────────── `setIsWaitingForPrintConfirmation` has already been declared here
+2026-05-08 21:07:22:     │ 
+2026-05-08 21:07:22:  39 │   const [isWaitingForPrintConfirmation, setIsWaitingForPrintConfirmation] = useState(false);
+2026-05-08 21:07:22:     │                                         ────────────────┬───────────────  
+2026-05-08 21:07:22:     │                                                         ╰───────────────── It can not be redeclared here
+2026-05-08 21:07:22: ────╯
+2026-05-08 21:07:22: 
+2026-05-08 21:07:22: [PARSE_ERROR] Error: Identifier `pendingOrderData` has already been declared
+2026-05-08 21:07:22:     ╭─[ src/pages/POS.jsx:38:10 ]
+2026-05-08 21:07:22:     │
+2026-05-08 21:07:22:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:22:     │          ────────┬───────  
+2026-05-08 21:07:22:     │                  ╰───────── `pendingOrderData` has already been declared here
+2026-05-08 21:07:22:     │ 
+2026-05-08 21:07:22:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:22:     │          ────────┬───────  
+2026-05-08 21:07:22:     │                  ╰───────── It can not be redeclared here
+2026-05-08 21:07:22: ────╯
+2026-05-08 21:07:22: 
+2026-05-08 21:07:22: [PARSE_ERROR] Error: Identifier `setPendingOrderData` has already been declared
+2026-05-08 21:07:22:     ╭─[ src/pages/POS.jsx:38:28 ]
+2026-05-08 21:07:22:     │
+2026-05-08 21:07:22:  38 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:22:     │                            ─────────┬─────────  
+2026-05-08 21:07:22:     │                                     ╰─────────── `setPendingOrderData` has already been declared here
+2026-05-08 21:07:22:     │ 
+2026-05-08 21:07:22:  40 │   const [pendingOrderData, setPendingOrderData] = useState(null);
+2026-05-08 21:07:22:     │                            ─────────┬─────────  
+2026-05-08 21:07:22:     │                                     ╰─────────── It can not be redeclared here
+2026-05-08 21:07:22: ────╯
+2026-05-08 21:07:22: [39m
+2026-05-08 21:07:22:   Plugin: [35mvite:oxc[39m
+2026-05-08 21:07:22:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 21:07:22:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 21:07:22:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 21:07:22:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 21:07:22:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 21:07:22:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 22:55:52: [2m10:55:52 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 22:55:52: 
+2026-05-08 22:55:52: [PARSE_ERROR] Error: Expected a semicolon or an implicit semicolon after a statement, but found none
+2026-05-08 22:55:52:      ╭─[ src/pages/POS.jsx:166:6 ]
+2026-05-08 22:55:52:      │
+2026-05-08 22:55:52:  166 │     } catch (err) {
+2026-05-08 22:55:52:      │      │ 
+2026-05-08 22:55:52:      │      ╰─ 
+2026-05-08 22:55:52:      │ 
+2026-05-08 22:55:52:      │ Help: Try inserting a semicolon here
+2026-05-08 22:55:52: ─────╯
+2026-05-08 22:55:52: [39m
+2026-05-08 22:55:52:   Plugin: [35mvite:oxc[39m
+2026-05-08 22:55:52:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 22:55:52:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 22:55:52:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 22:55:52:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 22:55:52:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 22:55:52:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 22:55:52: [2m10:55:52 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/pages/POS.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+2026-05-08 22:55:53: [2m10:55:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+2026-05-08 22:55:53: 
+2026-05-08 22:55:53: [PARSE_ERROR] Error: Expected a semicolon or an implicit semicolon after a statement, but found none
+2026-05-08 22:55:53:      ╭─[ src/pages/POS.jsx:166:6 ]
+2026-05-08 22:55:53:      │
+2026-05-08 22:55:53:  166 │     } catch (err) {
+2026-05-08 22:55:53:      │      │ 
+2026-05-08 22:55:53:      │      ╰─ 
+2026-05-08 22:55:53:      │ 
+2026-05-08 22:55:53:      │ Help: Try inserting a semicolon here
+2026-05-08 22:55:53: ─────╯
+2026-05-08 22:55:53: 
+2026-05-08 22:55:53:   Plugin: [35mvite:oxc[39m
+2026-05-08 22:55:53:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 22:55:55: [2m10:55:55 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 22:55:55: 
+2026-05-08 22:55:55: [PARSE_ERROR] Error: Expected a semicolon or an implicit semicolon after a statement, but found none
+2026-05-08 22:55:55:      ╭─[ src/pages/POS.jsx:166:6 ]
+2026-05-08 22:55:55:      │
+2026-05-08 22:55:55:  166 │     } catch (err) {
+2026-05-08 22:55:55:      │      │ 
+2026-05-08 22:55:55:      │      ╰─ 
+2026-05-08 22:55:55:      │ 
+2026-05-08 22:55:55:      │ Help: Try inserting a semicolon here
+2026-05-08 22:55:55: ─────╯
+2026-05-08 22:55:55: [39m
+2026-05-08 22:55:55:   Plugin: [35mvite:oxc[39m
+2026-05-08 22:55:55:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 22:55:55:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 22:55:55:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 22:55:55:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 22:55:55:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 22:55:55:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 22:56:10: [2m10:56:10 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+2026-05-08 22:56:10: 
+2026-05-08 22:56:10: [PARSE_ERROR] Error: Unexpected token
+2026-05-08 22:56:10:      ╭─[ src/pages/POS.jsx:555:1 ]
+2026-05-08 22:56:10:      │
+2026-05-08 22:56:10:  555 │ };
+2026-05-08 22:56:10:      │ ┬  
+2026-05-08 22:56:10:      │ ╰── 
+2026-05-08 22:56:10: ─────╯
+2026-05-08 22:56:10: 
+2026-05-08 22:56:10:   Plugin: [35mvite:oxc[39m
+2026-05-08 22:56:10:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 22:56:12: [2m10:56:12 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 22:56:12: 
+2026-05-08 22:56:12: [PARSE_ERROR] Error: Unexpected token
+2026-05-08 22:56:12:      ╭─[ src/pages/POS.jsx:555:1 ]
+2026-05-08 22:56:12:      │
+2026-05-08 22:56:12:  555 │ };
+2026-05-08 22:56:12:      │ ┬  
+2026-05-08 22:56:12:      │ ╰── 
+2026-05-08 22:56:12: ─────╯
+2026-05-08 22:56:12: [39m
+2026-05-08 22:56:12:   Plugin: [35mvite:oxc[39m
+2026-05-08 22:56:12:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 22:56:12:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 22:56:12:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 22:56:12:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 22:56:12:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 22:56:12:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 23:03:03: [2m11:03:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+2026-05-08 23:03:03: 
+2026-05-08 23:03:03: [PARSE_ERROR] Error: Unexpected token
+2026-05-08 23:03:03:      ╭─[ src/pages/POS.jsx:555:1 ]
+2026-05-08 23:03:03:      │
+2026-05-08 23:03:03:  555 │ };
+2026-05-08 23:03:03:      │ ┬  
+2026-05-08 23:03:03:      │ ╰── 
+2026-05-08 23:03:03: ─────╯
+2026-05-08 23:03:03: [39m
+2026-05-08 23:03:03:   Plugin: [35mvite:oxc[39m
+2026-05-08 23:03:03:   File: [36me:/Internship/Freelance web/FOMO/frontend/src/pages/POS.jsx[39m
+2026-05-08 23:03:03:       at transformWithOxc (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3340:19)
+2026-05-08 23:03:03:       at TransformPluginContext.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:3408:26)
+2026-05-08 23:03:03:       at EnvironmentPluginContainer.transform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:30179:51)
+2026-05-08 23:03:03:       at async loadAndTransform (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24509:26)
+2026-05-08 23:03:03:       at async viteTransformMiddleware (file:///e:/Internship/Freelance%20web/FOMO/frontend/node_modules/vite/dist/node/chunks/node.js:24303:20)
+2026-05-08 23:08:01: [2m11:08:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-08 23:08:01:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-08 23:08:01:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-08 23:08:21: [2m11:08:21 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-08 23:08:21:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-08 23:08:21:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 00:01:00: [2m12:01:00 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-09 00:01:00:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 00:01:00:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 00:04:30: [2m12:04:30 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-09 00:04:30:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 00:04:30:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 00:04:41: [2m12:04:41 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-09 00:04:41:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 00:04:41:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 00:05:05: [2m12:05:05 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-09 00:05:05:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 00:05:05:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 00:15:21: [2m12:15:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAPI Print Error: AxiosError: Request failed with status code 404
+2026-05-09 00:15:21:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 00:15:21:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 04:05:16: [2m4:05:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mBackend Print Error: TypeError: Cannot read properties of undefined (reading 'map')
+2026-05-09 04:05:16:     at printReceipt (http://localhost:5173/src/pages/POS.jsx:139:31)
+2026-05-09 04:05:16:     at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9141:5)
+2026-05-09 04:05:16:     at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:851:66)
+2026-05-09 04:05:16:     at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9167:27)
+2026-05-09 04:05:16:     at http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9454:5
+2026-05-09 04:05:16:     at batchedUpdates$1 (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:2044:12)
+2026-05-09 04:05:16:     at dispatchEventForPluginEventSystem (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9240:4)
+2026-05-09 04:05:16:     at dispatchEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:11319:29)
+2026-05-09 04:05:16:     at dispatchDiscreteEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:11301:56)
+2026-05-09 04:05:47: [2m4:05:47 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mBackend Print Error: TypeError: Cannot read properties of undefined (reading 'map')
+2026-05-09 04:05:47:     at printReceipt (http://localhost:5173/src/pages/POS.jsx:139:31)
+2026-05-09 04:05:47:     at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9141:5)
+2026-05-09 04:05:47:     at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:851:66)
+2026-05-09 04:05:47:     at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9167:27)
+2026-05-09 04:05:47:     at http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9454:5
+2026-05-09 04:05:47:     at batchedUpdates$1 (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:2044:12)
+2026-05-09 04:05:47:     at dispatchEventForPluginEventSystem (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:9240:4)
+2026-05-09 04:05:47:     at dispatchEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:11319:29)
+2026-05-09 04:05:47:     at dispatchDiscreteEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=df7eeb1d:11301:56)
+2026-05-09 04:10:34: [2m4:10:34 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mBackend Print Error: AxiosError: Request failed with status code 500
+2026-05-09 04:10:34:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 04:10:34:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 04:10:40: [2m4:10:40 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mBackend Print Error: AxiosError: Request failed with status code 500
+2026-05-09 04:10:40:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 04:10:40:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 04:12:45: [2m4:12:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mBackend Print Error: AxiosError: Request failed with status code 500
+2026-05-09 04:12:45:     at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:1725:14)
+2026-05-09 04:12:45:     at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=df7eeb1d:2077:4)
+2026-05-09 05:14:43: [2m5:14:43 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mReferenceError[22m: SecurityContent is not defined
+2026-05-09 05:14:43: [39m > Dashboard src/pages/Dashboard.jsx:269:42
+2026-05-09 05:14:43:  > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+2026-05-09 05:14:43:  > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+2026-05-09 05:14:43:  > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+2026-05-09 05:14:43:  > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+2026-05-09 05:14:43:  > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+2026-05-09 05:14:43:  > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+2026-05-09 05:14:43:  > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+2026-05-09 05:14:43:  > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+2026-05-09 05:14:43:  > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+2026-05-09 05:14:43: 
+2026-05-09 05:14:43: [2m5:14:43 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <Dashboard> component.
+2026-05-09 05:14:43: 
+2026-05-09 05:14:43: Consider adding an error boundary to your tree to customize error handling behavior.
+2026-05-09 05:14:43: Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+2026-05-09 05:14:43: 
+2026-05-10 11:55:48: [2m11:55:48 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mNo routes matched location "/products" 
+2026-05-10 11:55:48: [2m11:55:48 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mNo routes matched location "/products" 
