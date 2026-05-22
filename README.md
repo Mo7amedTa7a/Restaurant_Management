@@ -27,7 +27,7 @@
 - **Cors & Dotenv**
 
 ## 📂 هيكل المشروع (Project Structure)
-\`\`\`text
+```text
 FOMO/
 ├── backend/               # الخادم وقواعد البيانات
 │   ├── routes/            # مسارات الـ API (Auth, Products, Orders, Hassala, ...)
@@ -46,7 +46,7 @@ FOMO/
 │   └── package.json       # مكاتب الـ Frontend
 ├── package.json           # مكاتب المشروع الرئيسي (Concurrently)
 └── .gitignore             
-\`\`\`
+```
 
 ## 🚀 كيفية التشغيل (Getting Started)
 
@@ -55,7 +55,7 @@ FOMO/
 
 ### 1️⃣ التثبيت (Installation)
 قم بتثبيت الحزم الأساسية في المجلد الرئيسي، وكذلك في مجلدي `backend` و `frontend`:
-\`\`\`bash
+```bash
 # في المجلد الرئيسي (Root)
 npm install
 
@@ -66,15 +66,15 @@ npm install
 # في مجلد frontend
 cd ../frontend
 npm install
-\`\`\`
+```
 
 ### 2️⃣ التشغيل (Running the Project)
-يوفر المشروع أوامر تشغيل مبسطة باستخدام \`concurrently\` لتشغيل الواجهتين الأمامية والخلفية معاً بضغطة زر.
+يوفر المشروع أوامر تشغيل مبسطة باستخدام `concurrently` لتشغيل الواجهتين الأمامية والخلفية معاً بضغطة زر.
 
 من **المجلد الرئيسي (Root)**، قم بتشغيل:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 سيتم تشغيل:
 - **Backend**: يعمل على المنفذ (Port 5000 أو حسب ملف الـ .env)
 - **Frontend**: يعمل من خلال Vite.
@@ -84,8 +84,8 @@ npm run dev
 - `npm run dev:frontend`
 
 ## 📡 أهم نقاط النهاية للـ API (Endpoints)
-- \`/api/auth\`: تسجيل الدخول وإدارة المستخدمين.
-- \`/api/products\` & \`/api/categories\`: إدارة المنيو والمنتجات.
-- \`/api/orders\`: إدارة الطلبات.
-- \`/api/customers\` & \`/api/representatives\`: إدارة الأشخاص.
-- \`/api/hassala\` & \`/api/personal-hassala\`: التتبع المالي اليومي.
+- `/api/auth`: تسجيل الدخول وإدارة المستخدمين.
+- `/api/products` & `/api/categories`: إدارة المنيو والمنتجات.
+- `/api/orders`: إدارة الطلبات.
+- `/api/customers` & `/api/representatives`: إدارة الأشخاص.
+- `/api/hassala` & `/api/personal-hassala`: التتبع المالي اليومي.
