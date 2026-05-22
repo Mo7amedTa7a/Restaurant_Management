@@ -121,44 +121,62 @@ def render_receipt(data, width=512):
     final_image = final_image.convert('1')
     return final_image
 
-def main():
-    try:
-        # Force UTF-8 for stdin on Windows
-        import io
-        sys.stdin = io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8')
-        
-        # Read JSON from stdin
-        input_data = sys.stdin.read()
-        if not input_data:
-            return
-        
-        data = json.loads(input_data)
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import win32print
 
-        
-        # Detect Printer
-        import win32print
-        printer_name = win32print.GetDefaultPrinter()
-        
-        # Adjust width based on name
-        if "58" in printer_name:
-            width = 384
-        else:
-            width = 512
+class PrintHandler(BaseHTTPRequestHandler):
+    def do_POST(self):
+        try:
+            content_length = int(self.headers['Content-Length'])
+            post_data = self.rfile.read(content_length)
+            if not post_data:
+                self.send_response(400)
+                self.end_headers()
+                return
             
-        # Render
-        img = render_receipt(data, width=width)
-        
-        # Print
-        p = Win32Raw(printer_name)
-        
-        # Use bitImageRaster for better compatibility with Chinese/Generic printers
-        p.image(img, impl='bitImageRaster')
-        p.cut()
-        
-        sys.stdout.write(f"SUCCESS: Printed to {printer_name}")
-    except Exception as e:
-        sys.stderr.write(f"ERROR: {str(e)}")
-        sys.exit(1)
+            data = json.loads(post_data.decode('utf-8'))
+            
+            # Detect Printer
+            printer_name = win32print.GetDefaultPrinter()
+            
+            # Adjust width based on name
+            if "58" in printer_name:
+                width = 384
+            else:
+                width = 512
+                
+            # Render
+            img = render_receipt(data, width=width)
+            
+            # Print
+            p = Win32Raw(printer_name)
+            
+            # Use bitImageRaster for better compatibility with Chinese/Generic printers
+            p.image(img, impl='bitImageRaster')
+            p.cut()
+            
+            self.send_response(200)
+            self.send_header('Content-type', 'application/json')
+            self.end_headers()
+            self.wfile.write(json.dumps({"status": "success", "printer": printer_name}).encode('utf-8'))
+            
+        except Exception as e:
+            self.send_response(500)
+            self.send_header('Content-type', 'application/json')
+            self.end_headers()
+            self.wfile.write(json.dumps({"status": "error", "message": str(e)}).encode('utf-8'))
+
+    def log_message(self, format, *args):
+        # Suppress logging to keep stdout clean
+        pass
+
+def run_server(port=5050):
+    server_address = ('127.0.0.1', port)
+    httpd = HTTPServer(server_address, PrintHandler)
+    print(f'Starting Python Print Server on port {port}...')
+    sys.stdout.flush()
+    httpd.serve_forever()
 
 if __name__ == "__main__":
-    main()
+    port = int(sys.argv[1]) if len(sys.argv) > 1 else 5050
+    run_server(port)

@@ -266,44 +266,44 @@ router.delete('/:id', (req, res) => {
   }
 });
 
-// Print receipt via Python bridge
+// Print receipt via Python persistent server
 router.post('/print', (req, res) => {
   const orderData = req.body;
-
-
-
-  const pythonProcess = spawn('py', [
-    '-3.10',
-    path.join(__dirname, '../print_receipt.py')
-  ]);
-
-  let output = '';
-  let errorOutput = '';
-
-  pythonProcess.stdout.on('data', (data) => {
-    output += data.toString();
-  });
-
-  pythonProcess.stderr.on('data', (data) => {
-    errorOutput += data.toString();
-  });
-
-
-
-  pythonProcess.on('close', (code) => {
-    if (code !== 0) {
-      console.error('Printing failed:', errorOutput);
-      return res.status(500).json({
-        error: 'Printing failed',
-        details: errorOutput || 'Unknown error'
-      });
+  const postData = JSON.stringify(orderData);
+  
+  const options = {
+    hostname: '127.0.0.1',
+    port: 5050,
+    path: '/',
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Content-Length': Buffer.byteLength(postData)
     }
-    res.json({ message: 'Printing completed successfully', output });
+  };
+
+  const printReq = require('http').request(options, (printRes) => {
+    let data = '';
+    printRes.on('data', chunk => data += chunk);
+    printRes.on('end', () => {
+      if (printRes.statusCode === 200) {
+        res.json({ message: 'Printing completed successfully', output: data });
+      } else {
+        console.error('Printing failed:', data);
+        res.status(500).json({ error: 'Printing failed', details: data });
+      }
+    });
   });
 
-  // Send data via stdin
-  pythonProcess.stdin.write(JSON.stringify(orderData), 'utf8');
-  pythonProcess.stdin.end();
+  printReq.on('error', (e) => {
+    console.error(`Problem with print request: ${e.message}`);
+    // If the print server is not running, we return an error. 
+    // We could alternatively try to spawn it here, but it's better managed in index.js
+    res.status(500).json({ error: 'Print server unreachable. Please ensure it is running.', details: e.message });
+  });
+
+  printReq.write(postData);
+  printReq.end();
 });
 
 module.exports = router;
