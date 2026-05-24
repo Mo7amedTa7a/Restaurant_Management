@@ -12,3 +12,9 @@
 2026-05-23 03:59:53: Server started at ٢٣‏/٥‏/٢٠٢٦، ٣:٥٩:٥٣ ص on port 5000
 2026-05-23 04:14:46: ◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
 2026-05-23 04:14:47: Server started at ٢٣‏/٥‏/٢٠٢٦، ٤:١٤:٤٧ ص on port 5000
+2026-05-23 04:26:54: ◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+2026-05-23 04:26:57: Server started at ٢٣‏/٥‏/٢٠٢٦، ٤:٢٦:٥٧ ص on port 5000
+2026-05-23 17:29:43: ◇ injected env (3) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-23 17:29:44: Server started at ٢٣‏/٥‏/٢٠٢٦، ٥:٢٩:٤٤ م on port 5000
+2026-05-24 04:01:22: ◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-24 04:01:24: Server started at ٢٤‏/٥‏/٢٠٢٦، ٤:٠١:٢٤ ص on port 5000
